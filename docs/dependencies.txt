@@ -1,0 +1,18 @@
+Project Dependencies:
+
+1. **boto3**: The Amazon Web Services (AWS) SDK for Python, used to interact with AWS services like DynamoDB and S3.
+2. **botocore**: A low-level interface to AWS services, which is a core dependency of boto3.
+3. **jmespath**: A query language for JSON, used by boto3 for querying data.
+4. **packaging**: A library for dealing with Python packages and versioning.
+5. **pefile**: A module to work with Portable Executable (PE) files, useful for inspecting and manipulating binary files.
+6. **pyinstaller**: A program that converts Python applications into stand-alone executables, allowing users to run them without needing a Python interpreter.
+7. **pyinstaller-hooks-contrib**: A collection of hooks for PyInstaller to handle additional packages and libraries.
+8. **PySide6**: The set of Python bindings for the Qt 6 application framework, used for creating GUI applications.
+9. **PySide6_Addons**: Additional modules and functionality for PySide6, which may include extra widgets and features.
+10. **PySide6_Essentials**: Essential modules required for basic functionality in PySide6.
+11. **python-dateutil**: A powerful extension to the standard datetime module, providing additional features for parsing and manipulating dates and times.
+12. **pywin32-ctypes**: Provides Windows-specific extensions for Python, often used for interacting with Windows APIs.
+13. **s3transfer**: A library that provides transfer utilities for S3, used alongside boto3 for managing file uploads and downloads.
+14. **shiboken6**: The library that binds C++ code from the Qt framework to Python for PySide6.
+15. **six**: A Python 2 and 3 compatibility library, making it easier to write code that is compatible with both versions.
+16. **urllib3**: A powerful HTTP library for Python, used for making HTTP requests.
